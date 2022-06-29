@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="EC2-KINTSONREATEGUI/src/main/java"/>
+	<classpathentry kind="src" path="EC2-KINTSONREATEGUI/src/test/java"/>
+	<classpathentry kind="lib" path="EC2-KINTSONREATEGUI/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="EC2-KINTSONREATEGUI/target/classes"/>
+</classpath>
